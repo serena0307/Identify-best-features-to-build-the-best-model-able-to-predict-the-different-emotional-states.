@@ -1,0 +1,2 @@
+# Identify-best-features-to-build-the-best-model-able-to-predict-the-different-emotional-states.
+With advancements in technology and data analytics, the development of an  effective health monitoring system has become a key focus in the field of healthcare.  This project aims to contribute to the enhancement of health monitoring through the  utilization of classification algorithms and ensemble learning techniques. 
